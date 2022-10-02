@@ -1,0 +1,6 @@
+{
+    "port":3004,
+    "envName":"Development",
+    "dbConectionString":"mongodb+srv://admin:admin123@cluster0.lce8gah.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey":"fdjkljldfjljfkdjs"
+}
